@@ -1,0 +1,23 @@
+body {
+  margin: 0 auto;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.card-body {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.card {
+  margin: 0 auto;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+pic {
+  text-align: center;
+}
